@@ -111,8 +111,6 @@ and compares the release's tag (`vX.Y.Z`) against the running app's own `<Versio
    - Attach the built `.exe` (or a `.zip` of the publish output)
    - Click **Publish release** (not just save as draft — drafts are invisible to the update checker)
 
-The repo must be **Public** for this to work without adding a GitHub token to the app.
-
 ---
 
 ## Project Structure
