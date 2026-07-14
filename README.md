@@ -141,27 +141,37 @@ HIMS_FileManager/
 
 ---
 
+## Screenshots
+
+| | |
+|---|---|
+| **Login** | **PIN-protected Settings access** |
+| ![Login](src/screenshots/01-login.png) | ![Settings PIN entry](src/screenshots/02-settings-pin-entry.png) |
+| **File Manager (main view)** | **New Folder** |
+| ![File Manager main view](src/screenshots/03-file-manager-main.png) | ![New Folder](src/screenshots/04-new-folder.png) |
+| **Upload** | **Bulk Upload — folder select** |
+| ![Upload dialog](src/screenshots/05-upload-dialog.png) | ![Bulk upload select folder](src/screenshots/06-bulk-upload-select-folder.png) |
+| **Download** | **Image Preview** |
+| ![Save / download](src/screenshots/07-save-download.png) | ![Image preview](src/screenshots/08-image-preview.png) |
+| **Rename** | **Recycle Bin** |
+| ![Rename](src/screenshots/09-rename.png) | ![Recycle bin](src/screenshots/10-recycle-bin.png) |
+| **Print Preview** | **Calendar Upload Checklist** |
+| ![Print preview](src/screenshots/11-print-preview.png) | ![Calendar checklist](src/screenshots/12-calendar-checklist.png) |
+| **Export Database Schema** | **Admin Dashboard** |
+| ![Export DB schema](src/screenshots/13-export-db-schema.png) | ![Admin dashboard](src/screenshots/14-admin-dashboard.png) |
+| **Audit Log** | **Register New User** |
+| ![Audit log](src/screenshots/15-audit-log.png) | ![Register new user](src/screenshots/16-register-user.png) |
+| **Suggestions** | **Check for Updates** |
+| ![Suggestions](src/screenshots/17-suggestions.png) | ![Check for updates](src/screenshots/18-check-for-updates.png) |
+
+> User List and Chat screens are intentionally not shown here, since they display real staff accounts and conversations.
+
+---
+
 ## License
 
-Copyright © 2026 Dether S. Lagos, Zaheer Lagos. All rights reserved.
+*(Add your license here — e.g. MIT, proprietary/internal use only, etc.)*
 
-This software and its source code are proprietary and confidential.
-Unauthorized copying, modification, distribution, or use of this
-software, in whole or in part, is strictly prohibited without prior
-written permission from the copyright holders.
-
-This system is developed for internal use by [Facility/Organization Name]
-and is not licensed for public or third-party use.## License
-
-Copyright © 2026 Dether S. Lagos, Zaheer Lagos. All rights reserved.
-
-This software and its source code are proprietary and confidential.
-Unauthorized copying, modification, distribution, or use of this
-software, in whole or in part, is strictly prohibited without prior
-written permission from the copyright holders.
-
-This system is developed for internal use by [Facility/Organization Name]
-and is not licensed for public or third-party use.
 ---
 
 ## Credits
