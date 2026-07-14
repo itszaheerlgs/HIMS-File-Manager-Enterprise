@@ -143,8 +143,25 @@ HIMS_FileManager/
 
 ## License
 
-*(Add your license here — e.g. MIT, proprietary/internal use only, etc.)*
+Copyright © 2026 Dether S. Lagos, Zaheer Lagos. All rights reserved.
 
+This software and its source code are proprietary and confidential.
+Unauthorized copying, modification, distribution, or use of this
+software, in whole or in part, is strictly prohibited without prior
+written permission from the copyright holders.
+
+This system is developed for internal use by [Facility/Organization Name]
+and is not licensed for public or third-party use.## License
+
+Copyright © 2026 Dether S. Lagos, Zaheer Lagos. All rights reserved.
+
+This software and its source code are proprietary and confidential.
+Unauthorized copying, modification, distribution, or use of this
+software, in whole or in part, is strictly prohibited without prior
+written permission from the copyright holders.
+
+This system is developed for internal use by [Facility/Organization Name]
+and is not licensed for public or third-party use.
 ---
 
 ## Credits
